@@ -1,6 +1,9 @@
 # Gothic Sourcer
 This repository contains the binaries of the Gothic Sourcer. Its goal is to provide latest verison of the tool without a need of installing [Resource Manager](https://worldofplayers.ru/threads/41942/).
 
+## Download
+You can download the latest version of the Gothic Sourcer from the [releases page](https://github.com/muczc1wek/GothicSourcer/releases/latest).
+
 ## Links
 [Gothic Sourcer v3.14](https://www.worldofgothic.de/dl/download_234.htm)  
 [Gothic Sourcer v3.15](https://worldofplayers.ru/threads/38318/)  
